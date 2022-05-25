@@ -53,29 +53,29 @@ function App() {
       </div> */}
         <div className="cards">
           <div class="card center">
-            <div class="front">CAT1</div>
+            <div class="front">CAT</div>
 
             <div class="back">
               <div class="back-content center">
-                <span>КОТ1</span>
+                <span>КОТ</span>
               </div>
             </div>
           </div>
           <div class="card center">
-            <div class="front">CAT2</div>
+            <div class="front">DOG</div>
 
             <div class="back">
               <div class="back-content center">
-                <span>КОТ2</span>
+                <span>ПЁС</span>
               </div>
             </div>
           </div>
           <div class="card center">
-            <div class="front">CAT2</div>
+            <div class="front">FISH</div>
 
             <div class="back">
               <div class="back-content center">
-                <span>КОТ2</span>
+                <span>РЫБА</span>
               </div>
             </div>
           </div>
