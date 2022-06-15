@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eng-cards-app/static/css/main.19b677bc.css",
-    "main.js": "/eng-cards-app/static/js/main.c1ca0f52.js",
+    "main.css": "/eng-cards-app/static/css/main.14617fe0.css",
+    "main.js": "/eng-cards-app/static/js/main.6836eb30.js",
     "index.html": "/eng-cards-app/index.html",
-    "main.19b677bc.css.map": "/eng-cards-app/static/css/main.19b677bc.css.map",
-    "main.c1ca0f52.js.map": "/eng-cards-app/static/js/main.c1ca0f52.js.map"
+    "main.14617fe0.css.map": "/eng-cards-app/static/css/main.14617fe0.css.map",
+    "main.6836eb30.js.map": "/eng-cards-app/static/js/main.6836eb30.js.map"
   },
   "entrypoints": [
-    "static/css/main.19b677bc.css",
-    "static/js/main.c1ca0f52.js"
+    "static/css/main.14617fe0.css",
+    "static/js/main.6836eb30.js"
   ]
 }
